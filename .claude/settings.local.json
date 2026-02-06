@@ -9,5 +9,7 @@
   "sandbox": {
     "enabled": false,
     "autoAllowBashIfSandboxed": false
-  }
+  },
+  "spinnerTipsEnabled": false,
+  "outputStyle": "default"
 }
